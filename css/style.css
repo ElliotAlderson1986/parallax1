@@ -1,0 +1,22 @@
+.parallax{
+background-image: url(https://img3.akspic.ru/crops/9/3/4/4/3/134439/134439-naushniki-tekst-obrazovanie-avtor-marketing-1920x1080.jpg);
+min-height: 400px;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.content{
+    height: 1000px;
+    background-color:#f5f5f5;
+    font-size: 13px;
+}
+body {
+    background-color: #f5f5f5;
+    }
+    p {
+    font-family: monospace;
+    }
+    h1 {
+    font-family: monospace;
+    }
